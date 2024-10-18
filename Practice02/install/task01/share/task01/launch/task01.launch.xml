@@ -1,0 +1,5 @@
+<launch xmlns="http://ros.org/xml/schema">
+    <node pkg="task01" exec="receiver" name="receiver" output="screen">
+        <param name="log_level" value="INFO"/>
+    </node>
+</launch>

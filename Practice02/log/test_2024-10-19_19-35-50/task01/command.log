@@ -1,0 +1,2 @@
+Invoking command in '/workspace/src/task01': PYTEST_ADDOPTS=--tb=short --junit-xml=/workspace/build/task01/pytest.xml --junit-prefix=task01 -o cache_dir=/workspace/build/task01/.pytest_cache PYTHONDONTWRITEBYTECODE=1 /usr/bin/python3 -m pytest
+Invoked command in '/workspace/src/task01' returned '1': PYTEST_ADDOPTS=--tb=short --junit-xml=/workspace/build/task01/pytest.xml --junit-prefix=task01 -o cache_dir=/workspace/build/task01/.pytest_cache PYTHONDONTWRITEBYTECODE=1 /usr/bin/python3 -m pytest
